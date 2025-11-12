@@ -1,11 +1,11 @@
 {
-  "latest": "1.0.3",
+  "latest": "1.0.4",
   "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.0.3/MEROSYSOptimizer.exe",
   "sha256": "4987F6D4480E2346F9FA43690A8181ECA41F402FC67BDBAD6AF98E2CAB47E4C8",
   "release_date": "2025-11-12",
   "minimum_version": "1.0.0",
   "changelog": [
-    "✅ Fixato Punto di Ripristino"
+    "✅ Fixato Punto di Ripristino e logica aggiornamento"
   ],
   "is_mandatory": false
 }
