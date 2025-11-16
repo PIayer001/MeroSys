@@ -2,7 +2,7 @@
   "latest": "1.0.6",
   "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.0.6/MEROSYSOptimizer.exe",
   "sha256": "867F5C96F721640DF3109475AEAFABC361B669C4CABB99DAAB3C4A680F4C894B",
-  "release_date": "2025-11-15",
+  "release_date": "2025-11-16",
   "minimum_version": "1.0.0",
   "changelog": [
     "Versione stabile, fixato problema audio Discord"
