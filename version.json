@@ -1,7 +1,7 @@
 {
-  "latest": "1.0.7",
-  "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.0.7/MEROSYSOptimizer.exe",
-  "sha256": "05C80F450DE96FEF4C25693A9E2E8A62AB96F4DFE9DDAD29234B49341043456D",
+  "latest": "1.0.8",
+  "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.0.8/MEROSYSOptimizer.exe",
+  "sha256": "AF1879FCDBF66F82400165B07666F28B929FE23CE752FA21469650B804551EF5",
   "release_date": "2025-11-18",
   "minimum_version": "1.0.0",
   "changelog": [
