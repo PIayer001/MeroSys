@@ -1,11 +1,11 @@
 {
-  "latest": "1.0.9",
-  "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.0.9/MEROSYSOptimizer.exe",
-  "sha256": "8CA95CDE4782D86CA095B36E4F592BD36DA4A0F2481BB7EBE068E1AB4D37805E",
+  "latest": "1.10",
+  "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.1.0/MEROSYSOptimizer.exe",
+  "sha256": "D4E597F4A6299A3A9B7672E7323364BF750A0F1F183E36DB5338A4E8A85B9AF7",
   "release_date": "2025-11-18",
   "minimum_version": "1.0.0",
   "changelog": [
-    "Aggiornati Tweak Bios Intel e AMD!"
+    "Aggiornati Tweak Bios Intel, AMD e fixato problema con Updater!"
   ],
   "is_mandatory": false
 }
