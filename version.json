@@ -1,11 +1,11 @@
 {
-  "latest": "1.1.1",
-  "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.1.1/MEROSYSOptimizer.exe",
-  "sha256": "6063DE4313FF60DBBFFCB8D443855989AC6F6AAAEEFC0B38AC74456FCB630AC0",
+  "latest": "1.1.2",
+  "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.1.2/MEROSYSOptimizer.exe",
+  "sha256": "4349A71C044BE57883D7E8BA947F7182122D8A0E435731D1777FC0EBB5B76885",
   "release_date": "2025-11-19",
   "minimum_version": "1.0.0",
   "changelog": [
-    "Aggiunto Windows Update Blocker, Fixata logica di Update automatico!"
+    "Fixato bug AMD Advanced Tweak GPU"
   ],
   "is_mandatory": false
 }
