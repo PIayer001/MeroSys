@@ -1,11 +1,11 @@
 {
-  "latest": "1.1.2",
-  "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.1.2/MEROSYSOptimizer.exe",
-  "sha256": "4349A71C044BE57883D7E8BA947F7182122D8A0E435731D1777FC0EBB5B76885",
+  "latest": "1.1.3",
+  "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.1.3/MEROSYSOptimizer.exe",
+  "sha256": "97B3409C671DFE67010019092D22372BDAEAD191B05F2BFFC833DACE26906063",
   "release_date": "2025-11-19",
   "minimum_version": "1.0.0",
   "changelog": [
-    "Fixato bug AMD Advanced Tweak GPU"
+    "Fixato Bug Intel Bios Tweaks"
   ],
   "is_mandatory": false
 }
