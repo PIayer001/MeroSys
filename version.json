@@ -1,11 +1,11 @@
 {
-  "latest": "1.1.4",
-  "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.1.4/MEROSYSOptimizer.exe",
-  "sha256": "2994FA0236A18FF99AFBF0F46550F23C9E486469391324DB3094FCEE29F0C7FA",
-  "release_date": "2026-01-02",
+  "latest": "1.1.5",
+  "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.1.5/MEROSYSOptimizer.exe",
+  "sha256": "8E1F12D8A38DB4FB414FFA50C6C8CDD911758624D4A2698C9303DF7B320C04A1",
+  "release_date": "2026-01-13",
   "minimum_version": "1.0.0",
   "changelog": [
-    "Game Presets Update!"
+    "GPU Tweaks Updated, fresh new driver installation required."
   ],
   "is_mandatory": false
 }
