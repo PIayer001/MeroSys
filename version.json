@@ -1,26 +1,26 @@
 {
   "latest": "1.1.6",
-  "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.1.6/MEROSYSOptimizer.exe",
+  "download_url": "https://github.com/PLayer001/MeroSys/releases/download/v1.1.6/MEROSYSOptimizer.exe",
   "sha256": "D65356B011F649D93565161099335C3D76BF09FA7E2FF1279FDF37872B2C63EE",
   "release_date": "2026-01-18",
   "minimum_version": "1.0.0",
   "changelog": [
-    "🧬 BIOS Control Matrix 2.0
-- Complete rewrite of the BIOS tweak engine with intelligent value matching
-- Dynamic BIOS option detection - automatically finds correct values regardless of motherboard vendor
-- Real-time verification: tweaks are now verified after application to confirm success
-- Detailed success/failure reporting with specific error messages
-- Cross-motherboard compatibility: works correctly on Intel & AMD with different option codes
-
-🛠️ Bug Fixes
-- Fixed: Tweaks showing as "applied" but not actually written to NVRAM
-- Fixed: Deadlock potential when reading SCEWIN output
-- Fixed: Incorrect tweak verification on systems with non-standard BIOS codes
-
-🎨 UI/UX Improvements
-- ULTRA-TECH visual design across all sections
-- Refined animations and micro-interactions
-- Improved loading states with detailed progress messages"
+    "🔧 BIOS Control Matrix 2.0",
+    "- Complete rewrite of the BIOS tweak engine with intelligent value matching",
+    "- Dynamic BIOS option detection - automatically finds correct values regardless of motherboard vendor",
+    "- Real-time verification: tweaks are now verified after application to confirm success",
+    "- Detailed success/failure reporting with specific error messages",
+    "- Cross-motherboard compatibility: works correctly on Intel & AMD with different option codes",
+    "",
+    "🛠️ Bug Fixes",
+    "- Fixed: Tweaks showing as \"applied\" but not actually written to NVRAM",
+    "- Fixed: Deadlock potential when reading SCEWIN output",
+    "- Fixed: Incorrect tweak verification on systems with non-standard BIOS codes",
+    "",
+    "🎨 UI/UX Improvements",
+    "- ULTRA-TECH visual design across all sections",
+    "- Refined animations and micro-interactions",
+    "- Improved loading states with detailed progress messages"
   ],
   "is_mandatory": false
 }
