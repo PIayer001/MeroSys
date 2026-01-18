@@ -5,8 +5,8 @@
 Repository per la distribuzione degli aggiornamenti di MeroSys Optimizer.
 
 ## Versione Corrente
-- **Versione**: 1.1.3
-- **Data**: 23 Novembre 2025
+- **Versione**: 1.1.6
+- **Data**: 18 Gennaio 2026
 
 ## Note
 - Questo repository contiene SOLO i binari per gli aggiornamenti
