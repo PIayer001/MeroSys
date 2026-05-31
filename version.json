@@ -1,9 +1,9 @@
 {
-  "latest": "1.1.7",
-  "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.1.7/MEROSYSOptimizer.exe",
-  "sha256": "2664E3F692B59CD4BC748700409F81FE452484FA76A70D176EE1DF5CC2F239C7",
-  "release_date": "2026-05-31",
-  "minimum_version": "1.0.0",
+    "latest": "1.1.7",
+    "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.1.7/MEROSYSOptimizer.exe",
+    "sha256": "2664E3F692B59CD4BC748700409F81FE452484FA76A70D176EE1DF5CC2F239C7",
+    "release_date": "2026-05-31",
+    "minimum_version": "1.0.0",
     "changelog": [
       "🛡️ System Debloat Matrix 1.0",
       "- Riprogettazione completa dell'architettura della sezione Debloat, ora basata su un sistema modulare a matrice",
@@ -12,5 +12,5 @@
       "- Integrazione diretta di tool esterni essenziali come Launch Autoruns e Windows Update Blocker",
       "- Stato visivo in tempo reale per monitorare i moduli attivi e quelli in standby"
     ],
-  "is_mandatory": false
-}
+    "is_mandatory": false
+  }
