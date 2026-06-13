@@ -1,16 +1,18 @@
 {
-    "latest": "1.1.7",
-    "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.1.7/MEROSYSOptimizer.exe",
-    "sha256": "2664E3F692B59CD4BC748700409F81FE452484FA76A70D176EE1DF5CC2F239C7",
-    "release_date": "2026-05-31",
+    "latest": "1.1.8",
+    "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.1.8/MeroSys.exe",
+    "sha256": "EB398C04A699C5E94B52B54B0872E425D62B10C13B8E2944FC1F3BDD12432354",
+    "release_date": "2026-06-13",
     "minimum_version": "1.0.0",
     "changelog": [
-      "🛡️ System Debloat Matrix 1.0",
-      "- Riprogettazione completa dell'architettura della sezione Debloat, ora basata su un sistema modulare a matrice",
-      "- Suddivisione dei tweak in sottosistemi indipendenti (Privacy & Telemetry, Cortana & Copilot, Windows Services, Visual & UX, Startup, Windows Update)",
-      "- Centralizzazione dei controlli con funzioni 'Select All', 'Clear All' e pulsante globale 'Commit Changes'",
-      "- Integrazione diretta di tool esterni essenziali come Launch Autoruns e Windows Update Blocker",
-      "- Stato visivo in tempo reale per monitorare i moduli attivi e quelli in standby"
+      "# 🚀 MeroSys v1.1.8
+      "## ✨ Cosa cambia per te
+      "- 🆓 **Ora è freemium** — scarichi e provi gratis le ottimizzazioni base, senza pagare nulla,
+      "- 🏠 **Nuova Home** — più pulita, moderna e immediata,
+      "- 👑 **Premium più chiaro e bello** — vedi subito cosa sblocchi: 50+ tweak, Game Presets, GPU, BIOS e rete,
+      "- 🎨 **Look completamente rinnovato** — nuova grafica con accenti neon, coerente in tutta l'app,
+      "- 🌍 **Italiano · English · Português** — cambi lingua al volo.
+        
     ],
     "is_mandatory": false
   }
