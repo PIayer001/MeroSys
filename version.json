@@ -1,11 +1,11 @@
 {
-  "latest": "1.1.8",
-  "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.1.8/MeroSys.exe",
-  "sha256": "EB398C04A699C5E94B52B54B0872E425D62B10C13B8E2944FC1F3BDD12432354",
+  "latest": "1.1.9",
+  "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.1.9/MeroSys.exe",
+  "sha256": "B0CDA9D15A8E9392837781BD671D9A788A4808385EC9E8DECC3ED7E63DD58BBC",
   "release_date": "2026-06-13",
   "minimum_version": "1.0.0",
   "changelog": [
-    "# 🚀 MeroSys v1.1.8",
+    "# 🚀 MeroSys v1.1.9",
     "## ✨ Cosa cambia per te",
     "- 🆓 **Ora è freemium** – scarichi e provi gratis le ottimizzazioni base, senza pagare nulla,",
     "- 🏠 **Nuova Home** – più pulita, moderna e immediata,",
