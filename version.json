@@ -1,18 +1,17 @@
 {
-    "latest": "1.1.8",
-    "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.1.8/MeroSys.exe",
-    "sha256": "EB398C04A699C5E94B52B54B0872E425D62B10C13B8E2944FC1F3BDD12432354",
-    "release_date": "2026-06-13",
-    "minimum_version": "1.0.0",
-    "changelog": [
-      "# 🚀 MeroSys v1.1.8
-      "## ✨ Cosa cambia per te
-      "- 🆓 **Ora è freemium** — scarichi e provi gratis le ottimizzazioni base, senza pagare nulla,
-      "- 🏠 **Nuova Home** — più pulita, moderna e immediata,
-      "- 👑 **Premium più chiaro e bello** — vedi subito cosa sblocchi: 50+ tweak, Game Presets, GPU, BIOS e rete,
-      "- 🎨 **Look completamente rinnovato** — nuova grafica con accenti neon, coerente in tutta l'app,
-      "- 🌍 **Italiano · English · Português** — cambi lingua al volo.
-        
-    ],
-    "is_mandatory": false
-  }
+  "latest": "1.1.8",
+  "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.1.8/MeroSys.exe",
+  "sha256": "EB398C04A699C5E94B52B54B0872E425D62B10C13B8E2944FC1F3BDD12432354",
+  "release_date": "2026-06-13",
+  "minimum_version": "1.0.0",
+  "changelog": [
+    "# 🚀 MeroSys v1.1.8",
+    "## ✨ Cosa cambia per te",
+    "- 🆓 **Ora è freemium** – scarichi e provi gratis le ottimizzazioni base, senza pagare nulla,",
+    "- 🏠 **Nuova Home** – più pulita, moderna e immediata,",
+    "- 👑 **Premium più chiaro e bello** – vedi subito cosa sblocchi: 50+ tweak, Game Presets, GPU, BIOS e rete,",
+    "- 🎨 **Look completamente rinnovato** – nuova grafica con accenti neon, coerente in tutta l'app,",
+    "- 🌍 **Italiano · English · Português** – cambi lingua al volo."
+  ],
+  "is_mandatory": false
+}
