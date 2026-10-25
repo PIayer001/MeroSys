@@ -1,17 +1,15 @@
 {
-  "latest": "1.1.9",
-  "download_url": "https://github.com/PIayer001/MeroSys/releases/download/v1.1.9/MeroSys.exe",
-  "sha256": "B0CDA9D15A8E9392837781BD671D9A788A4808385EC9E8DECC3ED7E63DD58BBC",
-  "release_date": "2026-06-13",
-  "minimum_version": "1.0.0",
-  "changelog": [
-    "# 🚀 MeroSys v1.1.9",
-    "## ✨ Cosa cambia per te",
-    "- 🆓 **Ora è freemium** – scarichi e provi gratis le ottimizzazioni base, senza pagare nulla,",
-    "- 🏠 **Nuova Home** – più pulita, moderna e immediata,",
-    "- 👑 **Premium più chiaro e bello** – vedi subito cosa sblocchi: 50+ tweak, Game Presets, GPU, BIOS e rete,",
-    "- 🎨 **Look completamente rinnovato** – nuova grafica con accenti neon, coerente in tutta l'app,",
-    "- 🌍 **Italiano · English · Português** – cambi lingua al volo."
-  ],
-  "is_mandatory": false
+    "latest":  "2.0.0",
+    "download_url":  "https://github.com/PIayer001/MeroSys/releases/download/v2.0.0/MeroSys-Setup-2.0.0.exe",
+    "sha256":  "DBE5EAD1BE5640A7C4406402D3693AEEBDB441B7274B4941C5EFC5243C9197A8",
+    "release_date":  "2026-10-25",
+    "minimum_version":  "1.0.0",
+    "file_size_mb":  66,
+    "changelog":  [
+                      "MeroSys 2.0: nuovi tweaks, interfaccia completamente ridisegnata!",
+                      "Aggiornamenti automatici direttamente dall\u0027app"
+                  ],
+    "is_mandatory":  false,
+    "release_notes_url":  "https://github.com/PIayer001/MeroSys/releases/tag/v2.0.0",
+    "signature":  "5SElPnpN2zfsgCt/6czV78CfEPf9N7OMnfgYVHDtx1OKNp3IvjJL2MUod7gMwxoe8HGi7aEbtdqqDJShg7S+VA=="
 }
