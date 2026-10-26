@@ -1,15 +1,14 @@
 {
-    "latest":  "2.0.0",
-    "download_url":  "https://github.com/PIayer001/MeroSys/releases/download/v2.0.0/MeroSys-Setup-2.0.0.exe",
-    "sha256":  "DBE5EAD1BE5640A7C4406402D3693AEEBDB441B7274B4941C5EFC5243C9197A8",
-    "release_date":  "2026-10-25",
+    "latest":  "2.0.1",
+    "download_url":  "https://github.com/PIayer001/MeroSys/releases/download/v2.0.1/MeroSys-Setup-2.0.1.exe",
+    "sha256":  "4E00DAF105D6749F887246243DE5870C6F8742ED5AEB19F1A4654DBBE710393F",
+    "release_date":  "2026-10-26",
     "minimum_version":  "1.0.0",
     "file_size_mb":  66,
     "changelog":  [
-                      "MeroSys 2.0: nuovi tweaks, interfaccia completamente ridisegnata!",
-                      "Aggiornamenti automatici direttamente dall\u0027app"
+                      "🛡️ Protezione PIN/Windows Hello: i tweak che disattivano VBS, Hyper-V o la virtualizzazione nel BIOS vengono bloccati sui PC con Accesso con sicurezza avanzata"
                   ],
     "is_mandatory":  false,
-    "release_notes_url":  "https://github.com/PIayer001/MeroSys/releases/tag/v2.0.0",
-    "signature":  "5SElPnpN2zfsgCt/6czV78CfEPf9N7OMnfgYVHDtx1OKNp3IvjJL2MUod7gMwxoe8HGi7aEbtdqqDJShg7S+VA=="
+    "release_notes_url":  "https://github.com/PIayer001/MeroSys/releases/tag/v2.0.1",
+    "signature":  "LfIKNTrRNBUgK/pXuNrynwejRTrmpI86aUb9YFP+JYw9pZZJMecxLBnat0MAq6Nuv+2H9vUMtXyQ+AnHoJYizA=="
 }
