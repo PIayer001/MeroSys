@@ -1,20 +1,17 @@
 {
-    "latest":  "2.1.0",
-    "download_url":  "https://github.com/PIayer001/MeroSys/releases/download/v2.1.0/MeroSys-Setup-2.1.0.exe",
-    "sha256":  "583612F58789B97597D40EABCB6636D7820B0C8611A812DC41460EE57ABC5F41",
-    "release_date":  "2026-11-09",
+    "latest":  "2.2.0",
+    "download_url":  "https://github.com/PIayer001/MeroSys/releases/download/v2.2.0/MeroSys-Setup-2.2.0.exe",
+    "sha256":  "132854E917ABDAE1C12DE198C9C1567289F33E3DC949932CF322AF8B563B14FE",
+    "release_date":  "2026-11-12",
     "minimum_version":  "1.0.0",
     "file_size_mb":  66,
     "changelog":  [
-                      "Nuovo Debloat guidato: rispondi a poche domande e ottieni un Windows pulito, reattivo e senza telemetria",
-                      "Oltre 25 nuove ottimizzazioni applicate in automatico: privacy, servizi in background, Esplora file e barra delle applicazioni",
-                      "Nuova domanda OneDrive: se non lo usi viene disinstallato del tutto (mai se nella sua cartella ci sono file)",
-                      "Per chi gioca: Alt+Shift non cambia piu la lingua, Stamp copia negli appunti, niente conflitti con le luci RGB",
-                      "Ottimizzazione dei servizi piu affidabile anche sui PC gia modificati da altri programmi",
-                      "Nuova icona dell app",
-                      "Risolto lo sfarfallio della Dashboard e della card della licenza"
+                      "56 nuove ottimizzazioni Premium in Privacy, Power, Input, Gaming, Network, Security e Advanced",
+                      "Nuova pagina Privacy e Telemetria: Recall, Copilot, pubblicita, diagnostica e telemetria di Windows sotto controllo",
+                      "Ogni nuova ottimizzazione spiega cosa cambia e si annulla con un clic: i valori originali vengono salvati prima di modificare",
+                      "Meno latenza: dispositivi USB, audio e rete sempre attivi, DirectFlip, niente Modern Standby"
                   ],
     "is_mandatory":  false,
-    "release_notes_url":  "https://github.com/PIayer001/MeroSys/releases/tag/v2.1.0",
-    "signature":  "S73SfUiX7jkV8ATe7s6+RSmolBL01VsdhzulXsEh99B9SDcAfebX4lln9nIlX4CVs5UnGcRrvZr4n3nzraCayQ=="
+    "release_notes_url":  "https://github.com/PIayer001/MeroSys/releases/tag/v2.2.0",
+    "signature":  "lxdW+edOV/NFqaRKLTyS6Jf/UfXTpnN8XTTEqDG+I9jXWMNEJz9wqbGkvs7q8Q0sNj6Tb7NZBlzaDp5oZaXJPA=="
 }
