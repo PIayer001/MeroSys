@@ -1,17 +1,18 @@
 {
-    "latest":  "2.3.0",
-    "download_url":  "https://github.com/PIayer001/MeroSys/releases/download/v2.3.0/MeroSys-Setup-2.3.0.exe",
-    "sha256":  "85831CF7E44865A28D415D2575A0249897956533DF187C67AC722DB718434D5A",
+    "latest":  "2.3.1",
+    "download_url":  "https://github.com/PIayer001/MeroSys/releases/download/v2.3.1/MeroSys-Setup-2.3.1.exe",
+    "sha256":  "64329D57209CB3CB24CACB808635A8DD47354AC934C298E60D5EE982B56F3E50",
     "release_date":  "2026-11-22",
     "minimum_version":  "1.0.0",
     "file_size_mb":  66,
     "changelog":  [
-                      "Nuovo pannello Premium: piani e prezzi a colpo d\u0027occhio, con il piano piu conveniente in evidenza",
-                      "Sezioni riorganizzate e nuova grafica delle ottimizzazioni Premium",
-                      "Nuovo carattere dell\u0027interfaccia, piu leggibile",
-                      "Miglioramenti e correzioni"
+                      "Nuova Dashboard: lo stato del PC in un unico strumento, con telemetria dal vivo",
+                      "Navigazione piu semplice: sezioni principali a sinistra e pagine a schede",
+                      "Nuovo pannello di aggiornamento",
+                      "Rilevamento della velocita della RAM piu preciso",
+                      "Grafica Premium rinnovata"
                   ],
     "is_mandatory":  false,
-    "release_notes_url":  "https://github.com/PIayer001/MeroSys/releases/tag/v2.3.0",
-    "signature":  "lN0DUFCfccO0KtBVpjdyC1j0J/a7CsKlpC9yM2xMILLbhxO+Xj4l1r1FThAhttb9XdKzUiJU1N2M8Wso0Q+ERg=="
+    "release_notes_url":  "https://github.com/PIayer001/MeroSys/releases/tag/v2.3.1",
+    "signature":  "8SZxwgA3X9Bmf6qxqnv7ajKqaqpWYcQaNmsxIr/AGJeYdqagtSVmixm2cNvHj24Cfd1O0t7LVkfSQz+rJ43jdQ=="
 }
