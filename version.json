@@ -1,17 +1,17 @@
 {
-    "latest":  "2.2.0",
-    "download_url":  "https://github.com/PIayer001/MeroSys/releases/download/v2.2.0/MeroSys-Setup-2.2.0.exe",
-    "sha256":  "132854E917ABDAE1C12DE198C9C1567289F33E3DC949932CF322AF8B563B14FE",
-    "release_date":  "2026-11-12",
+    "latest":  "2.3.0",
+    "download_url":  "https://github.com/PIayer001/MeroSys/releases/download/v2.3.0/MeroSys-Setup-2.3.0.exe",
+    "sha256":  "85831CF7E44865A28D415D2575A0249897956533DF187C67AC722DB718434D5A",
+    "release_date":  "2026-11-22",
     "minimum_version":  "1.0.0",
     "file_size_mb":  66,
     "changelog":  [
-                      "56 nuove ottimizzazioni Premium in Privacy, Power, Input, Gaming, Network, Security e Advanced",
-                      "Nuova pagina Privacy e Telemetria: Recall, Copilot, pubblicita, diagnostica e telemetria di Windows sotto controllo",
-                      "Ogni nuova ottimizzazione spiega cosa cambia e si annulla con un clic: i valori originali vengono salvati prima di modificare",
-                      "Meno latenza: dispositivi USB, audio e rete sempre attivi, DirectFlip, niente Modern Standby"
+                      "Nuovo pannello Premium: piani e prezzi a colpo d\u0027occhio, con il piano piu conveniente in evidenza",
+                      "Sezioni riorganizzate e nuova grafica delle ottimizzazioni Premium",
+                      "Nuovo carattere dell\u0027interfaccia, piu leggibile",
+                      "Miglioramenti e correzioni"
                   ],
     "is_mandatory":  false,
-    "release_notes_url":  "https://github.com/PIayer001/MeroSys/releases/tag/v2.2.0",
-    "signature":  "lxdW+edOV/NFqaRKLTyS6Jf/UfXTpnN8XTTEqDG+I9jXWMNEJz9wqbGkvs7q8Q0sNj6Tb7NZBlzaDp5oZaXJPA=="
+    "release_notes_url":  "https://github.com/PIayer001/MeroSys/releases/tag/v2.3.0",
+    "signature":  "lN0DUFCfccO0KtBVpjdyC1j0J/a7CsKlpC9yM2xMILLbhxO+Xj4l1r1FThAhttb9XdKzUiJU1N2M8Wso0Q+ERg=="
 }
