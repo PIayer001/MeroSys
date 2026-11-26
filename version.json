@@ -1,15 +1,14 @@
 {
-    "latest":  "2.3.2",
-    "download_url":  "https://github.com/PIayer001/MeroSys/releases/download/v2.3.2/MeroSys-Setup-2.3.2.exe",
-    "sha256":  "7FD76CA3A232F21A3A91B74B1B2CA53F75059CA46E223EB3B593F015B67C084E",
+    "latest":  "2.3.3",
+    "download_url":  "https://github.com/PIayer001/MeroSys/releases/download/v2.3.3/MeroSys-Setup-2.3.3.exe",
+    "sha256":  "A3607DC571B50E78514FD720E7B876688B5C3CA7EA5EBF824C582363EDDB8028",
     "release_date":  "2026-11-26",
     "minimum_version":  "1.0.0",
     "file_size_mb":  66,
     "changelog":  [
-                      "Nuovo pulsante Attiva licenza nel menu, sopra Impostazioni",
-                      "MeroSys ora si avvia da solo al termine dell\u0027installazione"
+
                   ],
     "is_mandatory":  false,
-    "release_notes_url":  "https://github.com/PIayer001/MeroSys/releases/tag/v2.3.2",
-    "signature":  "0UUs6y3zsOFRerrs5lMxHkJtlW1MfmfXx+h7/cP4sJSKXLQAJ9cflJEq3Mj/KtOEy7yadS3BB43GSCRbiEM8iQ=="
+    "release_notes_url":  "https://github.com/PIayer001/MeroSys/releases/tag/v2.3.3",
+    "signature":  "8uUFgOF+V/5pZhZuaIsmW+qcAbAT41nN5XWTkaNt3gMloNrMCCBuChWUXvN6FEbWUM5U0CutngFSsKtgkqYUvA=="
 }
