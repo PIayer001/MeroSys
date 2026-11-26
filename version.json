@@ -1,14 +1,15 @@
 {
-    "latest":  "2.3.3",
-    "download_url":  "https://github.com/PIayer001/MeroSys/releases/download/v2.3.3/MeroSys-Setup-2.3.3.exe",
-    "sha256":  "A3607DC571B50E78514FD720E7B876688B5C3CA7EA5EBF824C582363EDDB8028",
+    "latest":  "2.3.4",
+    "download_url":  "https://github.com/PIayer001/MeroSys/releases/download/v2.3.4/MeroSys-Setup-2.3.4.exe",
+    "sha256":  "94B5536BF48E1BB80541F79E7E45BE4D05A5E82D1AFE59D9E82214FAD3A06046",
     "release_date":  "2026-11-26",
     "minimum_version":  "1.0.0",
     "file_size_mb":  66,
     "changelog":  [
-
+                      "Premium: acquisto direttamente sul sito, con prezzi nella tua valuta (USD, GBP, INR...)",
+                      "Premium: buy on our website with prices in your local currency"
                   ],
     "is_mandatory":  false,
-    "release_notes_url":  "https://github.com/PIayer001/MeroSys/releases/tag/v2.3.3",
-    "signature":  "8uUFgOF+V/5pZhZuaIsmW+qcAbAT41nN5XWTkaNt3gMloNrMCCBuChWUXvN6FEbWUM5U0CutngFSsKtgkqYUvA=="
+    "release_notes_url":  "https://github.com/PIayer001/MeroSys/releases/tag/v2.3.4",
+    "signature":  "IvFWT+zhqHZ18lajdmvmCCvpNiFYaacK4lANALKc+lueSzozDRZJMYRjiWo0C4eTbRmWp9O+pqTcBW42Zg/w0g=="
 }
